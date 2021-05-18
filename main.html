@@ -60,7 +60,9 @@ html {
   </style>
 </head>
 <body id="top" style="background-color:#0c0c0c;">
-
+<div class="load">
+    <hr/><hr/><hr/><hr/>
+  </div>
 <div style="width:100%;">
 <div style="float:left; width:20%;">
 
@@ -667,5 +669,11 @@ void main() {
 
 
 <script src="js/main.js"></script>
+
+<script>
+      setTimeout(function(){
+        $('.load').fadeToggle();
+      }, 1500);
+    </script>
 </body>
 </html>
