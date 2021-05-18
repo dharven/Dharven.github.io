@@ -1,0 +1,34 @@
+body{
+  background-color: #0c0c0c;
+
+}
+
+#text {
+
+	position: absolute;
+  font-size: 40px;
+   left:180px;
+    top:230px;
+}
+
+.slogan {
+  display: flex;
+  width: 100%;
+  font-size: 40px;
+  height: 0vh;
+
+}
+
+.animated_text {
+  color: var(--text-color);
+}
+
+.wrapper {
+  position: relative;
+}
+.extra{
+  font-size: 22px;
+  color: white;
+  display: flex;
+
+}
