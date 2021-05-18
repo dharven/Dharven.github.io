@@ -7,5 +7,11 @@ Also, your feedbacks is what i crave for, so don't forget to send me your feedba
 Note: Laptop is strictly recommended for this website as the website is not fully mobile responsive.
 Thank you!
 
+## Tech Stack
+1. HTML
+2. CSS
+3. JAVASCRIPT
+4. VANILLA.JS
+
 ## Website link
 https://dharven.github.io/
