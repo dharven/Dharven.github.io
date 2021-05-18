@@ -11,7 +11,6 @@ Thank you!
 1. HTML
 2. CSS
 3. JAVASCRIPT
-4. VANILLA.JS
 
 ## Website link
 https://dharven.github.io/
