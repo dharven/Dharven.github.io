@@ -18,3 +18,7 @@ Thank you!
 
 ## Website link
 https://dharven.github.io/
+
+## Built by:
+1. Dharven Doshi
+2. Om Brahmbhatt
