@@ -12,5 +12,9 @@ Thank you!
 2. CSS
 3. JAVASCRIPT
 
+## Preview
+![Screenshot 2021-05-18 210741](https://user-images.githubusercontent.com/70836668/118802433-bfbc8700-b8bf-11eb-9b3d-448fede10673.png)
+
+
 ## Website link
 https://dharven.github.io/
